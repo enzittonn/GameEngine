@@ -6,25 +6,25 @@
 
 #IncludeRegexTransform: 
 
-/Users/scarlet/Documents/DSV20/CPROG/GameEngine/src/Bullet.h
+/Users/moslehmahamud/CLionProjects/GameEngine/src/Bullet.h
 PlayerSprite.h
-/Users/scarlet/Documents/DSV20/CPROG/GameEngine/src/PlayerSprite.h
-SDL2/SDL.h
+/Users/moslehmahamud/CLionProjects/GameEngine/src/PlayerSprite.h
+SDL.h
 -
 SDL_image.h
 -
 iostream
 -
 EnemySprite.h
-/Users/scarlet/Documents/DSV20/CPROG/GameEngine/src/EnemySprite.h
+/Users/moslehmahamud/CLionProjects/GameEngine/src/EnemySprite.h
 vector
 -
 stdio.h
 -
 
-/Users/scarlet/Documents/DSV20/CPROG/GameEngine/src/EnemySprite.h
+/Users/moslehmahamud/CLionProjects/GameEngine/src/EnemySprite.h
 Sprite.h
-/Users/scarlet/Documents/DSV20/CPROG/GameEngine/src/Sprite.h
+/Users/moslehmahamud/CLionProjects/GameEngine/src/Sprite.h
 SDL_image.h
 -
 iostream
@@ -32,13 +32,19 @@ iostream
 stdio.h
 -
 
-/Users/scarlet/Documents/DSV20/CPROG/GameEngine/src/GameEngine.h
-SDL2/SDL.h
+/Users/moslehmahamud/CLionProjects/GameEngine/src/GameEngine.cpp
+GameEngine.h
+/Users/moslehmahamud/CLionProjects/GameEngine/src/GameEngine.h
+iostream
+-
+
+/Users/moslehmahamud/CLionProjects/GameEngine/src/GameEngine.h
+SDL.h
 -
 iostream
 -
 Sprite.h
-/Users/scarlet/Documents/DSV20/CPROG/GameEngine/src/Sprite.h
+/Users/moslehmahamud/CLionProjects/GameEngine/src/Sprite.h
 SDL_image.h
 -
 map
@@ -46,17 +52,17 @@ map
 stdlib.h
 -
 Bullet.h
-/Users/scarlet/Documents/DSV20/CPROG/GameEngine/src/Bullet.h
+/Users/moslehmahamud/CLionProjects/GameEngine/src/Bullet.h
 PlayerSprite.h
-/Users/scarlet/Documents/DSV20/CPROG/GameEngine/src/PlayerSprite.h
+/Users/moslehmahamud/CLionProjects/GameEngine/src/PlayerSprite.h
 EnemySprite.h
-/Users/scarlet/Documents/DSV20/CPROG/GameEngine/src/EnemySprite.h
+/Users/moslehmahamud/CLionProjects/GameEngine/src/EnemySprite.h
 vector
 -
 
-/Users/scarlet/Documents/DSV20/CPROG/GameEngine/src/PlayerSprite.h
+/Users/moslehmahamud/CLionProjects/GameEngine/src/PlayerSprite.h
 Sprite.h
-/Users/scarlet/Documents/DSV20/CPROG/GameEngine/src/Sprite.h
+/Users/moslehmahamud/CLionProjects/GameEngine/src/Sprite.h
 stdio.h
 -
 string
@@ -64,23 +70,23 @@ string
 iostream
 -
 
-/Users/scarlet/Documents/DSV20/CPROG/GameEngine/src/Sprite.h
+/Users/moslehmahamud/CLionProjects/GameEngine/src/Sprite.h
 stdio.h
 -
-SDL2/SDL.h
+SDL.h
 -
 SDL_image.h
 -
 string
 -
 
-/Users/scarlet/Documents/DSV20/CPROG/GameEngine/src/main.cpp
+/Users/moslehmahamud/CLionProjects/GameEngine/src/main.cpp
 iostream
 -
-SDL2/SDL.h
+SDL.h
 -
 GameEngine.h
-/Users/scarlet/Documents/DSV20/CPROG/GameEngine/src/GameEngine.h
+/Users/moslehmahamud/CLionProjects/GameEngine/src/GameEngine.h
 
 /usr/local/include/SDL2/SDL.h
 SDL_main.h

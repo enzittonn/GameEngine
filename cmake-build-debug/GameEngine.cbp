@@ -8,130 +8,126 @@
 		<Option virtualFolders="CMake Files\;CMake Files\CMAKE\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/scarlet/Documents/DSV20/CPROG/GameEngine/cmake-build-debug"/>
+				<Option working_dir="/Users/moslehmahamud/CLionProjects/GameEngine/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/scarlet/Documents/DSV20/CPROG/GameEngine/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/scarlet/Documents/DSV20/CPROG/GameEngine/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/scarlet/Documents/DSV20/CPROG/GameEngine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/scarlet/Documents/DSV20/CPROG/GameEngine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/moslehmahamud/CLionProjects/GameEngine/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/moslehmahamud/CLionProjects/GameEngine/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/moslehmahamud/CLionProjects/GameEngine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/moslehmahamud/CLionProjects/GameEngine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/scarlet/Documents/DSV20/CPROG/GameEngine/cmake-build-debug"/>
+				<Option working_dir="/Users/moslehmahamud/CLionProjects/GameEngine/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/scarlet/Documents/DSV20/CPROG/GameEngine/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/scarlet/Documents/DSV20/CPROG/GameEngine/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/scarlet/Documents/DSV20/CPROG/GameEngine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/scarlet/Documents/DSV20/CPROG/GameEngine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/moslehmahamud/CLionProjects/GameEngine/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/moslehmahamud/CLionProjects/GameEngine/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/moslehmahamud/CLionProjects/GameEngine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/moslehmahamud/CLionProjects/GameEngine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/scarlet/Documents/DSV20/CPROG/GameEngine/cmake-build-debug"/>
+				<Option working_dir="/Users/moslehmahamud/CLionProjects/GameEngine/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/scarlet/Documents/DSV20/CPROG/GameEngine/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/scarlet/Documents/DSV20/CPROG/GameEngine/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/scarlet/Documents/DSV20/CPROG/GameEngine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/scarlet/Documents/DSV20/CPROG/GameEngine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/moslehmahamud/CLionProjects/GameEngine/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/moslehmahamud/CLionProjects/GameEngine/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/moslehmahamud/CLionProjects/GameEngine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/moslehmahamud/CLionProjects/GameEngine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="GameEngine">
-				<Option output="/Users/scarlet/Documents/DSV20/CPROG/GameEngine/cmake-build-debug/bin/GameEngine" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/scarlet/Documents/DSV20/CPROG/GameEngine/cmake-build-debug/bin"/>
+				<Option output="/Users/moslehmahamud/CLionProjects/GameEngine/cmake-build-debug/bin/GameEngine" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/moslehmahamud/CLionProjects/GameEngine/cmake-build-debug/bin"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Library/Frameworks/SDL2.framework/Headers"/>
 					<Add directory="/usr/local/include/SDL2"/>
-					<Add directory="/Library/Frameworks/SDL2_image.framework/Headers"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
 					<Add directory="/System/Library/Frameworks"/>
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/scarlet/Documents/DSV20/CPROG/GameEngine/cmake-build-debug/Makefile&quot;  VERBOSE=1 GameEngine"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/scarlet/Documents/DSV20/CPROG/GameEngine/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/scarlet/Documents/DSV20/CPROG/GameEngine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/scarlet/Documents/DSV20/CPROG/GameEngine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/moslehmahamud/CLionProjects/GameEngine/cmake-build-debug/Makefile&quot;  VERBOSE=1 GameEngine"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/moslehmahamud/CLionProjects/GameEngine/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/moslehmahamud/CLionProjects/GameEngine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/moslehmahamud/CLionProjects/GameEngine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="GameEngine/fast">
-				<Option output="/Users/scarlet/Documents/DSV20/CPROG/GameEngine/cmake-build-debug/bin/GameEngine" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/scarlet/Documents/DSV20/CPROG/GameEngine/cmake-build-debug/bin"/>
+				<Option output="/Users/moslehmahamud/CLionProjects/GameEngine/cmake-build-debug/bin/GameEngine" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/moslehmahamud/CLionProjects/GameEngine/cmake-build-debug/bin"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Library/Frameworks/SDL2.framework/Headers"/>
 					<Add directory="/usr/local/include/SDL2"/>
-					<Add directory="/Library/Frameworks/SDL2_image.framework/Headers"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
 					<Add directory="/System/Library/Frameworks"/>
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/scarlet/Documents/DSV20/CPROG/GameEngine/cmake-build-debug/Makefile&quot;  VERBOSE=1 GameEngine/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/scarlet/Documents/DSV20/CPROG/GameEngine/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/scarlet/Documents/DSV20/CPROG/GameEngine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/scarlet/Documents/DSV20/CPROG/GameEngine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/moslehmahamud/CLionProjects/GameEngine/cmake-build-debug/Makefile&quot;  VERBOSE=1 GameEngine/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/moslehmahamud/CLionProjects/GameEngine/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/moslehmahamud/CLionProjects/GameEngine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/moslehmahamud/CLionProjects/GameEngine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/scarlet/Documents/DSV20/CPROG/GameEngine/src/Bullet.cpp">
+		<Unit filename="/Users/moslehmahamud/CLionProjects/GameEngine/src/Bullet.cpp">
 			<Option target="GameEngine"/>
 		</Unit>
-		<Unit filename="/Users/scarlet/Documents/DSV20/CPROG/GameEngine/src/Bullet.h">
+		<Unit filename="/Users/moslehmahamud/CLionProjects/GameEngine/src/Bullet.h">
 			<Option target="GameEngine"/>
 		</Unit>
-		<Unit filename="/Users/scarlet/Documents/DSV20/CPROG/GameEngine/src/EnemySprite.cpp">
+		<Unit filename="/Users/moslehmahamud/CLionProjects/GameEngine/src/EnemySprite.cpp">
 			<Option target="GameEngine"/>
 		</Unit>
-		<Unit filename="/Users/scarlet/Documents/DSV20/CPROG/GameEngine/src/EnemySprite.h">
+		<Unit filename="/Users/moslehmahamud/CLionProjects/GameEngine/src/EnemySprite.h">
 			<Option target="GameEngine"/>
 		</Unit>
-		<Unit filename="/Users/scarlet/Documents/DSV20/CPROG/GameEngine/src/GameEngine.cpp">
+		<Unit filename="/Users/moslehmahamud/CLionProjects/GameEngine/src/GameEngine.cpp">
 			<Option target="GameEngine"/>
 		</Unit>
-		<Unit filename="/Users/scarlet/Documents/DSV20/CPROG/GameEngine/src/GameEngine.h">
+		<Unit filename="/Users/moslehmahamud/CLionProjects/GameEngine/src/GameEngine.h">
 			<Option target="GameEngine"/>
 		</Unit>
-		<Unit filename="/Users/scarlet/Documents/DSV20/CPROG/GameEngine/src/PlayerSprite.cpp">
+		<Unit filename="/Users/moslehmahamud/CLionProjects/GameEngine/src/PlayerSprite.cpp">
 			<Option target="GameEngine"/>
 		</Unit>
-		<Unit filename="/Users/scarlet/Documents/DSV20/CPROG/GameEngine/src/PlayerSprite.h">
+		<Unit filename="/Users/moslehmahamud/CLionProjects/GameEngine/src/PlayerSprite.h">
 			<Option target="GameEngine"/>
 		</Unit>
-		<Unit filename="/Users/scarlet/Documents/DSV20/CPROG/GameEngine/src/Sprite.cpp">
+		<Unit filename="/Users/moslehmahamud/CLionProjects/GameEngine/src/Sprite.cpp">
 			<Option target="GameEngine"/>
 		</Unit>
-		<Unit filename="/Users/scarlet/Documents/DSV20/CPROG/GameEngine/src/Sprite.h">
+		<Unit filename="/Users/moslehmahamud/CLionProjects/GameEngine/src/Sprite.h">
 			<Option target="GameEngine"/>
 		</Unit>
-		<Unit filename="/Users/scarlet/Documents/DSV20/CPROG/GameEngine/src/main.cpp">
+		<Unit filename="/Users/moslehmahamud/CLionProjects/GameEngine/src/main.cpp">
 			<Option target="GameEngine"/>
 		</Unit>
-		<Unit filename="/Users/scarlet/Documents/DSV20/CPROG/GameEngine/CMakeLists.txt">
+		<Unit filename="/Users/moslehmahamud/CLionProjects/GameEngine/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
-		<Unit filename="/Users/scarlet/Documents/DSV20/CPROG/GameEngine/CMAKE/FindSDL2.cmake">
+		<Unit filename="/Users/moslehmahamud/CLionProjects/GameEngine/CMAKE/FindSDL2.cmake">
 			<Option virtualFolder="CMake Files\CMAKE\"/>
 		</Unit>
-		<Unit filename="/Users/scarlet/Documents/DSV20/CPROG/GameEngine/CMAKE/FindSDL2Mixer.cmake">
+		<Unit filename="/Users/moslehmahamud/CLionProjects/GameEngine/CMAKE/FindSDL2Mixer.cmake">
 			<Option virtualFolder="CMake Files\CMAKE\"/>
 		</Unit>
-		<Unit filename="/Users/scarlet/Documents/DSV20/CPROG/GameEngine/CMAKE/FindSDL2TTF.cmake">
+		<Unit filename="/Users/moslehmahamud/CLionProjects/GameEngine/CMAKE/FindSDL2TTF.cmake">
 			<Option virtualFolder="CMake Files\CMAKE\"/>
 		</Unit>
-		<Unit filename="/Users/scarlet/Documents/DSV20/CPROG/GameEngine/CMAKE/FindSDL2_IMAGE.cmake">
+		<Unit filename="/Users/moslehmahamud/CLionProjects/GameEngine/CMAKE/FindSDL2_IMAGE.cmake">
 			<Option virtualFolder="CMake Files\CMAKE\"/>
 		</Unit>
 	</Project>

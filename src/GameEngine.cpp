@@ -16,6 +16,7 @@ GameEngine::~GameEngine() {
     renderer = NULL;
     screen = NULL;
 
+
     std::cout << "GameEngine destructor called " << std::endl;
 }
 
@@ -39,6 +40,8 @@ void GameEngine::initialize_Loop(GameEngine *gameEngine) {
             SDL_Delay(1000 / FPS);
         moveEnemies();
     }
+
+    delete gameEngine;
 }
 
 //INITIALIZE

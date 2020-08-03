@@ -1,6 +1,6 @@
 #include <iostream>
 
-#include <SDL2/SDL.h>
+#include <SDL.h>
 #include "GameEngine.h"
 
 
@@ -17,7 +17,7 @@ int main(int argc, const char *argv[]) {
     gameEngine->addBulletImage("resources/bullet.png");
     gameEngine->initialize_Loop(gameEngine);
 
-    delete gameEngine;
+
 
     return 0;
 }

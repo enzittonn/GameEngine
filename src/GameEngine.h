@@ -2,7 +2,7 @@
 #define GameEngine_h
 
 
-#include <SDL2/SDL.h>
+#include <SDL.h>
 #include <iostream>
 #include "Sprite.h"
 
